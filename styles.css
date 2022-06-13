@@ -1,0 +1,19 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.middle {
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    padding: 7px;
+    background-color: pink;
+    border: 2px blue solid;
+}
